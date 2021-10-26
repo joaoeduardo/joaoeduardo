@@ -25,3 +25,4 @@ Throughout my career I've mainly worked with **PHP**, but I'm also very familiar
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="26px" src="https://camo.githubusercontent.com/cb2e2ccd2a36b3e120e762fa493d833fd86d3f62d01c10b2b7d03fabd8ee5079/68747470733a2f2f7777772e6d61637570646174652e636f6d2f696d616765732f69636f6e733235362f35373736312e706e67" />
