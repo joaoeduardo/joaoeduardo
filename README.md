@@ -12,17 +12,17 @@ Throughout my career I've mainly worked with **PHP**, but I'm also very familiar
 
 ### Technologies I use in my daily life:
 
-![PHP](./images/php.png)
-![Laravel](./images/laravel.png)
-![Symfony](./images/symfony.png)
-![HTML 5](./images/html5.png)
-![CSS 3](./images/css3.png)
-![SASS](./images/sass.png)
-![JS](./images/js.png)
-![React](./images/react.png)
-![Angular](./images/angular.png)
-![Node](./images/node.png)
-![Git](./images/git.png)
-![Github](./images/github.png)
-![Docker](./images/docker.png)
-![GCP](./images/gcp.png)
+<img alt="PHP" src="./images/php.png" />
+<img alt="Laravel" src="./images/laravel.png" />
+<img alt="Symfony" src="./images/symfony.png" />
+<img alt="HTML 5" src="./images/html5.png" />
+<img alt="CSS 3" src="./images/css3.png" />
+<img alt="SASS" src="./images/sass.png" />
+<img alt="JS" src="./images/js.png" />
+<img alt="React" src="./images/react.png" />
+<img alt="Angular" src="./images/angular.png" />
+<img alt="Node" src="./images/node.png" />
+<img alt="Git" src="./images/git.png" />
+<img alt="Github" src="./images/github.png" />
+<img alt="Docker" src="./images/docker.png" />
+<img alt="GCP" src="./images/gcp.png" />
