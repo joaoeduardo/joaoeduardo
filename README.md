@@ -8,7 +8,7 @@ Throughout my career I've mainly worked with **PHP**, but I'm also very familiar
 
 - 👔 Working at Pravaler
 - 🎓 Learning Elixir
-- 📚 Reading about DDD
+- 📚 Reading about Software Architecture, DDD and Hexagonal Architecture.
 
 ### Technologies I use in my daily life:
 
