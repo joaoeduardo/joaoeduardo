@@ -6,7 +6,7 @@ Throughout my career I've mainly worked with **PHP**, but I'm also very familiar
 
 ### Currently I'm:
 
-- 👔 Working at Pravaler
+- 👔 Working at PicPay
 - 🎓 Learning Elixir
 - 📚 Reading about Software Architecture, DDD and Hexagonal Architecture.
 
