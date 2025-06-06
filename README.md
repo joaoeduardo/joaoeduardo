@@ -6,8 +6,7 @@ Throughout my career I've mainly worked with **PHP**, but I'm also very familiar
 
 ### Currently I'm:
 
-- 👔 Working at PicPay
-- 🎓 Learning Elixir
+- 👔 Working at CI&T
 - 📚 Reading about Software Architecture, DDD and Hexagonal Architecture.
 
 ### Technologies I use in my daily life:
